@@ -9,3 +9,7 @@ This is a notebook for note. I'm trying to build my knownledge system and someth
 ## pose refine related
 
 refine pose for slam, sfm or calibration.
+
+## generative model
+
+generative model including diffusion model or autoregressive model.
