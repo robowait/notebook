@@ -13,3 +13,6 @@ refine pose for slam, sfm or calibration.
 ## generative model
 
 generative model including diffusion model or autoregressive model.
+
+## e2e model
+e2e model for Autonomous Driving
